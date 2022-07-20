@@ -12,6 +12,7 @@ if (Test-Path($ChocolateyProfile)) {
 #Display Date
 $(date) 
 
+#Neofetch Logo
 neofetch
 
 #Banner
